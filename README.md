@@ -19,7 +19,7 @@ I prefer Amazon Web Services & DevOps Tools.
 <br/>
 - 🌱 I’m addicted to learning and growing every day
   
-- AWS, DevOPs, Python, Linux, VS Code, Git, GitHub, GitLab, Jira, Agile, Docker, Kubernetes, Terraform, Ansible 
+- AWS, DevOps, Python, Linux, VS Code, Git, GitHub, GitLab, Jira, Agile, Docker, Kubernetes, Terraform, Ansible 
 
 - 💬 Ask  me about anything that you want to learn via LinkedIn 
 
